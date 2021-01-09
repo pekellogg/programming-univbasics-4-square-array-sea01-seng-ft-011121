@@ -18,10 +18,6 @@
 
 # require 'pry'
 
-a = 0
-
-while a < 10 do
-  p a
-  # binding.pry
-  a += 1
+def using_include(array, element)
+  array[element].include?
 end
