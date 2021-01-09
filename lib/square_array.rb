@@ -25,4 +25,3 @@ while a < 10 do
   binding.pry
   a += 1
 end
-
