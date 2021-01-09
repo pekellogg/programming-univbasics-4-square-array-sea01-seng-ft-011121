@@ -16,12 +16,12 @@
 # square_array(array)
 
 
-require 'pry'
+# require 'pry'
 
 a = 0
 
 while a < 10 do
   p a
-  binding.pry
+  # binding.pry
   a += 1
 end
