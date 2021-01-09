@@ -26,4 +26,3 @@ while a < 10 do
   a += 1
 end
 
-p a
